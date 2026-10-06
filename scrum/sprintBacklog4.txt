@@ -1,0 +1,227 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 4 Nov 7-Nov 14, 2025
+# Sprint 4 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.004 : laazizia : Complete
+NAME     : Architecture behind Model is poor
+PRIORITY : 3
+ESTIMATE : 1 day   ACTUAL : 3 Hours
+ISSUE    : Having a list of different types of drawable things in the
+           model is cumbersome. In fact, it is currently incorrect, with
+           Squiggle's not drawing properly. Need to re-architect the Model
+           so that it is more flexible, and easier to work with.
+           Consider some design patterns, or change of responsibility
+           here.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.005 : laazizia : Complete
+NAME     : Poly-Line not working
+PRIORITY : 3
+ESTIMATE : 1 hour   ACTUAL : 3 hours
+ISSUE    : When you click the poly-line, it just uses the last selected shape.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.004 : khanh171 : Complete
+NAME     : Clear Drawing
+PRIORITY : 4
+ESTIMATE : 3 hours    ACTUAL : 3 hours
+AS A     : user
+I WANT   : To be able to clear the drawing board
+SO THAT  : i can have a blank canvas to work on
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.001 : laazizia : Complete
+NAME     : Dark Mode
+PRIORITY : 4
+ESTIMATE : 2 hours    ACTUAL : 1 day
+AS A     : user
+I WANT   : To be able to set the theme of the paint project to dark mode.
+SO THAT  : I can paint all night long without causing pain to my eyes!
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.002 : laazizia : NotStarted
+NAME     : Shape Selection
+PRIORITY : 4
+ESTIMATE : 2 hours    ACTUAL : TBA
+AS A     : user
+I WANT   : To be able to select shapes, and alter them in some way (still deciding how)
+SO THAT  : Adjust my beautiful work of art after drawing!
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.003 : laazizia : Complete
+NAME     : Eraser
+PRIORITY : 4
+ESTIMATE : 2 hours    ACTUAL : 1 hour
+AS A     : user
+I WANT   : To have an Eraser Button!
+SO THAT  : To erase bad art >:(
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.004 : khanh171 : Complete
+NAME     : Clear Drawing
+PRIORITY : 4
+ESTIMATE : 3 hours    ACTUAL : 3 hours
+AS A     : user
+I WANT   : To be able to clear the drawing board
+SO THAT  : i can have a blank canvas to work on
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.005 : khanh171 : Complete
+NAME     : Thickness Status
+PRIORITY : 4
+ESTIMATE : 3 hours    ACTUAL : TBA
+AS A     : user
+I WANT   : To be able to see line thickness we have selected
+SO THAT  : i can keep track of the current state of selection
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.006 : memonmo5 : Complete
+NAME     : Shapes Rotation
+PRIORITY : 4
+ESTIMATE : 3 hours    ACTUAL : 4 hours
+AS A     : user
+I WANT   : To be able to rotate the shapes when drawing them, by selecting an option to rotate or not
+SO THAT  : Have more options on how users can draw shapes
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.007 : laazizia : Complete
+NAME     : Button Style
+PRIORITY : 4
+ESTIMATE : 1 hour   ACTUAL : 1 hour
+AS A     : user
+I WANT   : To have a nicer GUI
+SO THAT  : The program looks better
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.008 : laazizia : Complete
+NAME     : Button-Color swap upon selection
+PRIORITY : 4
+ESTIMATE : 1 hour   ACTUAL : 1 hour
+AS A     : user
+I WANT   : Make it so when a specific tool is selected, all other tool buttons turn red.
+SO THAT  : It is clear what tool is selected
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.009 : khanh171 : Started
+NAME     : Canvas Border
+PRIORITY : 4
+ESTIMATE : 3 hours    ACTUAL : 3 hours
+AS A     : user
+I WANT   :
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.010 : laazizia : Complete
+NAME     : Fill button Swap Glitch
+PRIORITY : 4
+ESTIMATE : 1 Minute  ACTUAL : 10 Seconds (one line of code)
+ISSUE    : Upon Selecting fill on an appropriate shape, and going to a tool that
+           does not support fill, the fill checkbox remains "selected"
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.011 : memonmo5 : Complete
+NAME     : BG feature added
+PRIORITY : 3
+ESTIMATE : 30 Minutes  ACTUAL : 30 Minutes
+AS A     : user
+I WANT   : to select the color of the Canvas Background with a color picker
+SO THAT  : The background of the canvas can easily change.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.012 : laazizia : Complete
+NAME     : Eraser Button with new BG feature fix
+PRIORITY : 2
+ESTIMATE : 30 Minutes  ACTUAL : 20 Minutes
+ISSUE    : Since BG can be any colour now, the Eraser cannot just Erase to white.
+           It must Erase to the same colour as the BG.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.013 : laazizia : Complete
+NAME     : Fill and Rotate Boxes Swap Back and Forth Glitch
+PRIORITY : 4
+ESTIMATE : 1 Hour  ACTUAL : 1 Hour
+ISSUE    : Upon Selecting fill/rotate on an appropriate shape, and going back and forth
+           to a tool that does not support fill/rotate, the fill/rotate checkbox shows
+           "Unselected", however it remains selected.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.014 : laazizia : Complete
+NAME     : BG Colour initial Colour.
+PRIORITY : 4
+ESTIMATE : 20 Minutes  ACTUAL : 10 Minutes
+ISSUE    : Upon opening the Paint application for the very first time,
+           The colour shown is different from the one shown in the panel.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.015 : laazizia : Complete
+NAME     : Bigger Application Window and Canvas
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL : 1 hour
+AS A     : user
+I WANT   : Have a bigger Canvas to draw on
+SO THAT  : I can Draw Bigger Art!
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.016 : laazizia : Complete
+NAME     : Tool Double Selection leads to Blue Buttons
+PRIORITY : 4
+ESTIMATE : 1 hour  ACTUAL : 30 minutes
+ISSUE    : Upon Selecting the same tool an even number of times,
+           All the tool buttons revert to blue. I.e., all the tool buttons
+           revert to the original state of the application.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.016 : sures134 : Complete
+NAME     : Button-Hovered Icon Label
+PRIORITY : 4
+ESTIMATE : 1 hour    ACTUAL : 10 minutes
+AS A     : user
+I WANT   : to see the name of the button
+SO THAT  : I can clearly tell what the icon is supposed to be
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.017 : memonmo5 : Complete
+NAME     : Rotation Option Bug-Fix for Rectangle
+PRIORITY : 4
+ESTIMATE : 1 hour  ACTUAL : 30 minutes
+ISSUE    : The rotation tool is extremely wonky and buggy to use, especially
+           on the Rectangle Tool. This may be due to how the anchor
+           point keeps dynamically changing when it should stay in place.
+           (The math.min functions keep messing with the x,y coordinates that we
+           rely on for calculation)
+
+           It's NOT completely fixed but it is a lot less wonky and
+           unpredictable. Users can use the feature more reliably. So
+           the bug fix can be considered "complete" for now.
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.018 : memonmo5 : Complete
+NAME     : Rotation Option Bug-Fix for Oval
+PRIORITY : 4
+ESTIMATE : 3 hour  ACTUAL : 1 hour
+ISSUE    : The rotation tool is extremely wonky and buggy to use, especially
+           on the Rectangle and Triangle tool. This may be due to how the anchor
+           point keeps dynamically changing when it should stay in place.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.019 : memonmo5 : Completed
+NAME     : Rotation Option Bug-Fix for Triangle
+PRIORITY : 4
+ESTIMATE : 3 hour  ACTUAL : 1 hour
+ISSUE    : The rotation tool is extremely wonky and buggy to use, especially
+           on the Triangle tool. The anchor now works by staying in place.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.020 : laazizia : Complete
+NAME     : Nuke Tool
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL : 2 hours
+AS A     : user
+I WANT   : To erase a circular area of the drawing, with the size of the drawing
+           being determined by the specified line thickness
+SO THAT  : To erase large amounts of bad art
+--------------------------------------------------------------------------

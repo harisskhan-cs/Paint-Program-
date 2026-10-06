@@ -1,0 +1,175 @@
+/* CSS for paint project by laazizia
+@author Adam Laazizi
+*/
+
+/* Default light-mode background */
+#main-container {
+    -fx-background-color: #F4F4F4;
+}
+
+/* --- NEW --- */
+/* Default light-mode for layout panes */
+#top-box {
+    -fx-background-color: #F4F4F4;
+}
+#shape-chooser-panel {
+    -fx-background-color: #F4F4F4;
+}
+
+
+.shape-button {
+    -fx-background-color: #d1e7ff;
+    -fx-border-color: #0078D4;
+    -fx-border-radius: 4;
+    -fx-background-radius: 4; /* Rounded corners :) */
+}
+
+/* Hover over button */
+.shape-button:hover {
+    -fx-background-color: #b6d6f5;
+}
+
+/* Selected button */
+.shape-button:selected {
+    -fx-background-color: #7FFFD4;
+    -fx-border-color: #8FBC8F;
+}
+
+.check-box {
+    -fx-text-fill: #333333; /* Dark gray text colour */
+}
+
+
+.check-box .box {
+    -fx-background-color: #ffffff; /* Sets the box background to white */
+    -fx-border-color: #aaaaaa;     /* A grey border */
+    -fx-border-radius: 3;
+}
+
+.check-box:selected .mark {
+    -fx-background-color: #0078D4;
+}
+
+
+.check-box:selected .box {
+    -fx-background-color: #e6f2fa;
+    -fx-border-color: #0078D4;
+}
+
+/* Unselected buttons turn Red */
+.unselected-tool {
+    -fx-background-color: #ffcccc;
+    -fx-border-color: #cc0000;
+}
+
+.unselected-tool:hover {
+    -fx-background-color: #ffaaaa;
+}
+
+/*
+ * Dark Mode stuff
+ */
+
+/* Dark mode background */
+.dark-mode #main-container {
+    -fx-background-color: #2e2e2e;
+}
+
+/* Replaced .v-box and .grid-pane with new Ids */
+.dark-mode #top-box {
+    -fx-background-color: #2e2e2e;
+}
+.dark-mode #shape-chooser-panel {
+    -fx-background-color: #2e2e2e;
+}
+
+/* 'Clear' button in dark mode */
+.dark-mode .button {
+    -fx-background-color: #4a4a4a;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 4px;
+}
+.dark-mode .button:hover {
+    -fx-background-color: #6a6a6a;
+}
+
+/* Dark mode default labels */
+.dark-mode .label {
+    -fx-text-fill: #f0f0f0;
+}
+
+/* Dark mode CheckBox text */
+.dark-mode .check-box {
+    -fx-text-fill: #f0f0f0;
+}
+
+/* Dark mode CheckBox box */
+.dark-mode .check-box .box {
+    -fx-background-color: #4a4a4a;
+    -fx-border-color: #aaaaaa;
+}
+
+/* Dark mode CheckBox selected checkmark */
+.dark-mode .check-box:selected .mark {
+    -fx-background-color: #ffffff;
+}
+
+/* Dark mode CheckBox selected box */
+.dark-mode .check-box:selected .box {
+    -fx-background-color: #5a5a5a;
+    -fx-border-color: #0078D4;
+}
+
+/* Dark mode MenuBar background */
+.dark-mode .menu-bar {
+    -fx-background-color: #2e2e2e;
+}
+
+/* Dark mode MenuBar text (File, Edit, etc) */
+.dark-mode .menu-bar .label {
+    -fx-text-fill: #f0f0f0;
+}
+
+/* Dark mode Menu header hover */
+.dark-mode .menu:hover, .dark-mode .menu:showing {
+    -fx-background-color: #4a4a4a;
+}
+
+/* Dark mode dropdown menu background */
+.dark-mode .context-menu {
+    -fx-background-color: #3c3c3c;
+    -fx-border-color: #555555;
+}
+
+/* Dark mode dropdown item text */
+.dark-mode .menu-item .label {
+    -fx-text-fill: #f0f0f0;
+}
+
+/* Dark mode dropdown item hover */
+.dark-mode .menu-item:focused, .dark-mode .menu-item:hover {
+    -fx-background-color: #5a5a5a;
+}
+
+/* --- NEW STYLES FOR COLOR PICKER --- */
+
+/* Dark mode ColorPicker background */
+.dark-mode .color-picker {
+    -fx-background-color: #4a4a4a;
+    -fx-background-radius: 4px;
+}
+
+/* Dark mode ColorPicker hover */
+.dark-mode .color-picker:hover {
+    -fx-background-color: #6a6a6a;
+}
+
+/* Dark mode ColorPicker text */
+.dark-mode .color-picker .label {
+    -fx-text-fill: #f0f0f0;
+}
+
+/* Dark mode ColorPicker arrow */
+.dark-mode .color-picker .arrow {
+    -fx-background-color: #f0f0f0;
+}

@@ -1,0 +1,121 @@
+--------------------------------------------------------------------------------
+FeatureName: Eraser (Completed)
+
+Description:
+	Erases the drawing, can change thickness of eraser through altering line thickness.
+
+
+Reference:
+	US4.003
+--------------------------------------------------------------------------------
+FeatureName: Clear Button (Completed)
+
+Description:
+	Clears the canvas to start drawing from scratch.
+
+
+Reference:
+	US4.004
+--------------------------------------------------------------------------------
+FeatureName: Rotate Shape (Completed)
+
+Description:
+	Rotate the shapes when drawing them, by selecting an option to rotate or not.
+
+
+Reference:
+	US4.006
+--------------------------------------------------------------------------------
+FeatureName: Button-Color swap upon selection (Completed)
+
+Description:
+    Make it so when a specific tool is selected, all other tool buttons turn red.
+
+
+Reference:
+	US4.008
+--------------------------------------------------------------------------------
+FeatureName: Line Thickness Indicator (Complete)
+
+Description:
+    See what line thickness we have selected .
+
+
+Reference:
+	US4.005
+--------------------------------------------------------------------------------
+FeatureName: Dark Mode (Completed)
+
+Description:
+    To be able to set the theme of the paint project to dark mode.
+
+
+Reference:
+	US4.008
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+FeatureName: PolyLine (Complete)
+
+Description:
+    Implementing the PolyLine tool
+
+Reference:
+	BUG4.005
+--------------------------------------------------------------------------------
+FeatureName: Dark Mode (Complete)
+
+Description:
+    To be able to set the theme of the paint project to dark mode.
+
+
+Reference:
+	US4.001
+--------------------------------------------------------------------------------
+FeatureName: Canvas Border (Complete)
+
+Description:
+    A black canvas border to make it easier to see the bounds of the canvas.
+
+
+Reference:
+    BUG4.014
+
+--------------------------------------------------------------------------------
+FeatureName: Changing BG Color (Complete)
+
+Description:
+    To be able to set the canvas/background color. We use the same Color Picker object that was already implemented
+    so select the BG Color, and then we apply that change to the canvas itself.
+
+Reference:
+	US4.011
+--------------------------------------------------------------------------------
+FeatureName: Larger Application Window (Complete)
+
+Description:
+    When running the application, the window is much larger than before allowing more shapes and squiggles on \
+    the canvas.
+
+ Reference:
+    US4.015
+
+--------------------------------------------------------------------------------
+FeatureName: Button-Hovered Icon Label (Complete)
+
+Description:
+    Display the button names when hovered on. Helps the user identify what the button (icon) is.
+
+Reference:
+	US4.016
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+FeatureName: Nuke (Completed)
+
+Description:
+	Erases a circular area of the drawing upon clicking and dragging,
+	can change radius of nuke through altering line thickness.
+
+
+Reference:
+	US4.020
+--------------------------------------------------------------------------------

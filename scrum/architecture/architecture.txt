@@ -1,0 +1,65 @@
+# Please discuss your architectural decisions below.
+
+High Level Architecture:
+
+	MVC
+	To keep the code simple, a partial MVC was implemented.
+	
+	Model
+	The Model captures enough information to re-draw the sketch of
+	the user.
+	
+	View+Controller
+	There is a View class as well as a few, what we call, view components.
+	The View class containing the BorderPane as well as containing all of its components.
+	View components are meant to be contained in the main View.
+	Examples of view components are PaintPanel and ShapeChooserPanel.
+	
+	The View class, and view components all implements their own controller.
+	For example, the PaintPanel listens to its own MouseEvents.
+	This is instead of separating out the Controller from the View. This choice
+	was made to simplify the code, yet still keep it modular and clear.
+	
+	Each view component can see the containing View as well as the Model
+	as appropriate. This means that each view component can speak to the
+	other view components. An example of this is when the ShapeChooserPanel
+	buttons are clicked, resulting in a mode change in the PaintPanel.
+	
+---------------------------------------------------------------------
+do you do something interesting to fix the association between the
+ShapeChooser and the PaintPanel? How about the PaintModel, something
+is clearly wrong with it. Can you come up with a better architecture?
+
+An Architecture we decided to use is a Factory design pattern. That is
+that instead of having all the drawing logic in the Panel document, each shape
+would implement a general "Shape" interface with a mandatory draw() method.
+This method would basically just take in all the drawing logic for each respective shape
+and having it within the shape's "factory" class. This Also has the extra feature of removing the
+need for a bunch of ArrayLists of each respective shape, and just having one ArrayList with
+all the drawable shapes. Finally in the Original Panel class, we just use a simple for loop
+to go over all the drawable shapes and call their respective draw() method.
+---------------------------------------------------------------------
+
+DESIGN PATTERNS USED
+	discuss it below. Only add design patterns if they simplify and improve
+	the code. I see at least two that would greatly improve code. 
+
+	Strategy:
+
+	in order to fix BUG2.003, which outlines that Architecture behind choosing selection mode is poor.
+	Previously, when a user would select a Shape tool to draw with, the class would go through a huge
+	list of if-else statements to detect which tool was used, and then more if-else statements in each of those
+	to determine the MouseEvent being used to draw/modify the shape. This is extremely inefficient as the program
+	gets bigger and more tools/shapes are added.
+
+	to use the "Strategy" design pattern, we added an Interface class called the DrawingTool, which would include
+	functions for getting the Tool's name, and the methods for each MouseEvent. Then, every tool we want to
+	implement would implement from the Tool class. For example, the RectangleTool would implement from the Tool class
+	to get its MouseEvent methods. Then each method would get its unique behavior added (taken from the if-else
+	statements discussed before).
+
+	Thanks to this design pattern, the overwhelming amount of if-else statements to check each tool was removed.
+
+	Factory: Shape.draw() methods
+
+OTHER ARCHITECTURE DISCUSSIONS

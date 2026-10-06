@@ -1,0 +1,32 @@
+Pull Requests:
+
+BUG2.003 author: memonmo5 puller: laazizia status: Complete
+US3.006 author: laazizia puller: memonmo5 status: Complete
+US3.007 author: khanh171 puller: laazizia status: Complete
+US4.001 author: laazizia puller: sures134 status: Complete
+US4.003 author: laazizia puller: memonmo5 status: Complete
+US4.004 author: khanh171 puller: laazizia status: Complete
+BUG4.004 author: laazizia puller: khanh171 status: Complete
+BUG4.005 author: laazizia puller: sures134 status: Complete
+US4.005 author: khanh171 puller: laazizia status: Complete
+US3.005 author: sures134 puller: khanh171 status: Complete
+US3.006 author: laazizia puller: sures134 status: Complete
+US3.007 author: khanh171 puller: memonmo5 status: Complete
+BUG4.004 author: laazizia puller: memonmo5 status: Complete
+BUG4.005 author: laazizia puller: memonmo5 status: Complete
+US4.004 author: khanh171 puller: sures134 status: Complete
+US4.006 author: memonmo5 puller: laazizia status: Complete
+US4.011 author: memonmo5 puller: laazizia status: Complete
+BUG4.017 author: memonmo5 puller: laazizia status: Complete
+US4.007 author: laazizia puller: memonmo5 status: Complete
+US4.008 author: laazizia puller: khanh171 status: Complete
+BUG4.010 author: laazizia puller: khanh171 status: Complete
+BUG4.012 author: laazizia puller: memonmo5 status: Complete
+BUG4.013 author: laazizia puller: sures134 status: Complete
+BUG4.014 author: laazizia puller: khanh171 status: Complete
+US4.015 author: laazizia puller: memonmo5 status: Complete
+BUG4.016 author: laazizia puller: sures134 status: Complete
+US4.016 author: sures134 puller: laazizia status: Complete
+BUG4.018 author: memonmo5 puller: laazizia status: Complete
+BUG4.019 author: memonmo5 puller: sures134 status: Complete
+US4.020 author: laazizia puller: khanh171 status: Complete

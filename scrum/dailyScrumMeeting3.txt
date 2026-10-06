@@ -1,0 +1,158 @@
+# Fill in, commit and push each day.
+Member name: Sanjana Suresh     email: sanjana.suresh@mail.utoronto.ca    utorid: sures134
+
+Oct 15,2025
+	What I did yesterday: study for a midterm
+	What I will do today: look at assignment 2 handout
+	Obstacles I face: not in a group yet
+
+Oct 16,2025
+	What I did yesterday: study for a midterm
+	What I will do today: study for another class
+	Obstacles I face: not in a group yet
+
+Oct 17,2025
+	What I did yesterday: study for another class
+	What I will do today: study for another class
+	Obstacles I face: not in group yet
+
+Oct 18,2025
+	What I did yesterday: study for another class
+	What I will do today: study for another class
+	Obstacles I face: not in a group yet
+
+Oct 19,2025
+	What I did yesterday: study for another class
+	What I will do today: study for another class
+	Obstacles I face: planning with group
+
+Oct 20,2025
+	What I did yesterday: study for another class
+	What I will do today: study for another class
+	Obstacles I face: planning with group
+
+Oct 21,2025
+	What I did yesterday: study for another class
+	What I will do today: look at assignment 2 starter code
+	Obstacles I face: still have to decide what BUG/US for group members to work on
+
+Oct 22,2025
+	What I did yesterday: added to members.txt and tried understanding the starter code
+	What I will do today: meet with team and choose BUG/US to work on
+	Obstacles I face: issues with the BUG
+
+Oct 23,2025
+	What I did yesterday: met with team and decided which BUG/US to work on.
+	What I will do today: study for midterm
+	Obstacles I face: issues with the BUG
+
+Oct 24,2025
+	What I did yesterday: study for midterm
+	What I will do today: study for midterm
+	Obstacles I face: deadlines
+
+Oct 25,2025
+	What I did yesterday: study for midterm
+	What I will do today: work on BUG1.001
+	Obstacles I face: issues with the BUG
+
+Oct 26,2025
+	What I did yesterday: worked on BUG1.001
+	What I will do today: study for other classes
+	Obstacles I face: deadlines
+
+Oct 27,2025
+	What I did yesterday: studied for other classes
+	What I will do today: plan with group
+	Obstacles I face: deadlines
+
+Oct 28,2025
+	What I did yesterday:
+	What I will do today: made icons on Canva for BUG1.001
+	Obstacles I face: showing images on the button
+
+Oct 29,2025
+	What I did yesterday: work on BUG1.001
+	What I will do today: work on BUG1.001
+	Obstacles I face: code not working
+
+Oct 30,2025
+	What I did yesterday: finished BUG1.001
+	What I will do today: Choose a US and work on it
+	Obstacles I face: deadlines
+
+Oct 31,2025
+	What I did yesterday: worked on and finished US1.009 (Drawing an Oval)
+	What I will do today: work on and complete US1.008 (Drawing a Triangle)
+	Obstacles I face: issues with displaying shape on model
+
+Nov 1,2025
+	What I did yesterday: worked on Sprint2 tasks
+	What I will do today: plan with the group
+	Obstacles I face: deadlines
+
+Nov 2,2025
+	What I did yesterday: planned with group
+	What I will do today: choose what to work on for Sprint3
+	Obstacles I face:
+
+Nov 3,2025
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 4,2025
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 5,2025
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 6,2025
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 7,2025
+	What I did yesterday: study for another class
+	What I will do today: study for another class
+	Obstacles I face: other classes
+
+Nov 8,2025
+	What I did yesterday: study for another class' midterm
+	What I will do today: study
+	Obstacles I face: other classes
+
+Nov 9,2025
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 10,2025
+	What I did yesterday: study for another class
+	What I will do today: study for another class
+	Obstacles I face: deadlines
+
+Nov 11,2025
+	What I did yesterday: study for other classes
+	What I will do today: plan with group for sprint 4
+	Obstacles I face: other classes
+
+Nov 12,2025
+	What I did yesterday: work on US3.005
+	What I will do today: meet the group during the lab and complete US3.005
+	Obstacles I face: deadlines
+
+Nov 13,2025
+	What I did yesterday: met with group and decided what to work on
+	What I will do today: fix issue with US3.005
+	Obstacles I face: deadlines
+
+Nov 14,2025
+	What I did yesterday: worked on US3.005 and chose an extra feature
+	What I will do today: work on US4.016
+	Obstacles I face: deadlines
+

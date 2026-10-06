@@ -1,0 +1,59 @@
+# Fill in, commit and push each day.
+Member name: Mohammad Memon     email: memonmohammad21@gmail.com     utorid: memonmo5
+
+
+Oct 20,2025
+	What I did yesterday: SPRINT 1
+	What I will do today: SPRINT 1
+	Obstacles I face:
+
+Oct 21,2025
+	What I did yesterday: SPRINT 1
+	What I will do today: SPRINT 1
+	Obstacles I face:
+
+Oct 22,2025
+	What I did yesterday: SPRINT 1
+	What I will do today: SPRINT 1 + group meeting
+	Obstacles I face: n/a
+
+
+Oct 26,2025
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 27,2025
+	What I did yesterday:
+	What I will do today: Group Meeting
+	Obstacles I face: n/a
+
+
+Nov 1,2025
+	What I did yesterday:
+	What I will do today: group meeting
+	Obstacles I face: trying to catch up with how the team is handling the project so i can help out
+
+
+Nov 6,2025
+	What I did yesterday:
+	What I will do today: group meeting
+	Obstacles I face: adding features and fixing bugs, but nothing stands out
+
+
+
+Nov 12,2025
+	What I did yesterday:
+	What I will do today: lab/group meeting
+	Obstacles I face:
+
+Nov 13,2025
+	What I did yesterday: lab/group meeting
+	What I will do today: make a bunch of extra featues
+	Obstacles I face: need to make a bunch of features before deadline
+
+Nov 14,2025
+	What I did yesterday: made a bunch of features before deadline
+	What I will do today: bug fixing before submission while attending group meeting online
+	Obstacles I face: bugs, deadlines
+

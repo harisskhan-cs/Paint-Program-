@@ -1,0 +1,77 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 3 Oct 31-Nov 06, 2025
+# Sprint 3 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : USER STORY US3.005 : sures134 : Complete
+NAME     : Color selector
+PRIORITY : 3
+ESTIMATE : 1 day    ACTUAL : 1 day
+AS A     : user
+I WANT   : To be able to select the current drawing color, to be applied
+           to subsequent shapes. Example:
+           		selects color red
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select color green
+           		draw a rectangle
+           		draw a rectangle
+           		select mode squiggle
+           		draw a squiggle
+           	results in two red circles and a red rectangle as well as
+           	two green rectangles and a green squiggle
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US3.007 : khanh171 : Complete
+NAME     : Line thickness selector
+PRIORITY : 3
+ESTIMATE :  1 day    ACTUAL : 1 day
+AS A     : user
+I WANT   : To be able to select the current line thickness, to be applied
+           to subsequent shapes. Example:
+           		select fill style outline
+           		selects line thickness 1
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select line thickness 9
+           		draw a rectangle
+           		draw a rectangle
+           		select mode squiggle
+           		draw a squiggle
+           	results in two thinly outlined circles and a thinly outlined
+           	rectangle as well as two thickly outlined rectangles and a thick squiggle
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US3.006 : laazizia : Complete
+NAME     : Fill style selector
+PRIORITY : 3
+ESTIMATE : 1 day   ACTUAL : 1 day
+AS A     : user
+I WANT   : To be able to select the current drawing style (filled or outline), to be applied
+           to subsequent shapes. Example:
+           		selects fill style solid
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select fill style outline
+           		draw a rectangle
+           		draw a rectangle
+           		select mode squiggle
+           		draw a squiggle
+           	results in two solid circles and a solid rectangle as well as
+           	two outlined rectangles and a squiggle
+SO THAT  :
+--------------------------------------------------------------------------

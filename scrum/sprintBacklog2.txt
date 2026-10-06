@@ -1,0 +1,91 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 2 Oct 24-Oct 30, 2025
+# Sprint 2 Backlog UserStories go below
+
+
+--------------------------------------------------------------------------
+TYPE     : USER STORY US1.002 : khanh171 : Complete
+NAME     : Draw Circle Feedback
+PRIORITY : 2
+ESTIMATE : 1 day    ACTUAL : 1 day
+AS A     : user
+I WANT   : As a user is specifying a Circle, during the drag, a 'current'
+           circle should be on display. As the user drags, the 'current'
+           circle changes in real time so that a circle is drawn with
+           centre at users initial circle click, with radius out to
+           the current dragged mouse position.
+SO THAT  : I can see the circle I am about to build on release of the mouse
+           button.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US1.003 : laazizia : Complete
+NAME     : Draw Rectangle
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL : 2 hours
+AS A     : user
+I WANT   : To click on one corner of a rectangle, drag, and release to
+                   specify two corners of a rectangle to be drawn in the current style.
+SO THAT  : I can add rectangles to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US1.004 : laazizia : Complete
+NAME     : Draw Rectangle Feedback
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL : 1 hour
+AS A     : user
+I WANT   : Similarly to Draw Circle Feedback, display the rectangle in mid construction.
+SO THAT  : I can see the rectangle I am about to build on release of the mouse button.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US1.008 : sures134 : Complete
+NAME     : Draw Triangle
+PRIORITY : 2
+ESTIMATE : 1 day   ACTUAL : 4 hours
+AS A     : user
+I WANT   : To click on one corner of a triangle, drag, and release to
+		   specify two corners of a triangle to be drawn in the current style.
+SO THAT  : I can add triangles to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US1.009 : sures134 : Complete
+NAME     : Draw Oval
+PRIORITY : 2
+ESTIMATE : 1 day    ACTUAL : 1 day
+AS A     : user
+I WANT   : To click the center of the oval, drag, and release to specify
+           a oval to be drawn in the current style.
+SO THAT  : I can add ovals to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US1.010 : khanh171 : Complete
+NAME     : Draw Square
+PRIORITY : 2
+ESTIMATE : 1 day   ACTUAL :
+AS A     : user
+I WANT   : To click on one corner of a square, drag, and release to
+		   specify two corners of a square to be drawn in the current style.
+SO THAT  : I can add squares to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG2.003 : memonmo5 : Complete
+NAME     : Architecture behind choosing selection mode is poor
+PRIORITY : 3
+ESTIMATE : 1 day    ACTUAL : 1 day
+ISSUE    : Code is not modular and is difficult to expand. Need a better
+           architecture behind selecting a drawing mode, and handling
+           the drawing events. Consider some design patterns here.
+           Refactor ShapeChooserPanel and PaintPanel to get rid of the
+           'if' blocks in the PaintPanel mouse event code.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG2.004 : sures134 : Complete
+NAME     : Small bugs after architecture change (BUG2.003)
+PRIORITY : 3
+ESTIMATE : 10 min    ACTUAL : 10 min
+ISSUE    : The default is not set to Circle, and the tool (shape) gets
+           printed more than once, since a print statement was added for
+           the current tool.
+--------------------------------------------------------------------------

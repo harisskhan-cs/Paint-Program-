@@ -1,0 +1,68 @@
+# Fill in, commit and push each day.
+Member name: Adam Laazizi     email: adam.laazizi@mail.utoronto.ca     utorid: laazizia
+
+Oct 15,2025
+	What I did yesterday: Study
+	What I will do today: Understand the project at hand
+	Obstacles I face: Other Midterms
+
+Oct 16,2025
+	What I did yesterday: Studied for other midterms
+	What I will do today: Understand the project at hand
+	Obstacles I face: Other courses midterms, javafx not working
+
+Oct 17,2025
+	What I did yesterday: Studied for midterms
+	What I will do today: Understand the project at hand
+	Obstacles I face: Other courses midterms, javafx not working
+
+Oct 18,2025
+	What I did yesterday: Studied for midterms
+	What I will do today: Understand the project at hand
+	Obstacles I face: Other courses midterms, javafx not working
+
+Oct 19,2025
+	What I did yesterday: Studied for midterms
+	What I will do today: Understand the project at hand
+	Obstacles I face: Other courses midterms, javafx not working
+
+Oct 20,2025
+	What I did yesterday: Studied for midterms
+	What I will do today: Understand the project at hand
+	Obstacles I face: Other courses midterms, javafx not working
+
+Oct 21,2025
+	What I did yesterday: Studied for midterms
+	What I will do today: Fix JAVAFX on my machine
+	Obstacles I face: Other courses midterms, javafx not working
+
+Oct 22,2025
+	What I did yesterday: Fix JAVAFX on my machine
+	What I will do today: Work on User Stories
+	Obstacles I face: Other midterms
+
+Oct 27,2025
+	What I did yesterday: Finish All tasks in sprint 1
+	What I will do today: Commence Tasks for sprint 2
+	Obstacles I face: Behind on course content
+
+
+Nov 1,2025
+	What I did yesterday: Finish all my Sprint 2 Tasks
+	What I will do today: Commence Tasks for sprint 3
+	Obstacles I face: Reading week lazyness
+
+Nov 6,2025
+	What I did yesterday: Work on Sprint 3 Tasks
+	What I will do today: Continue to work on sprint 3 tasks
+	Obstacles I face: None, I'm locked in 😁
+
+Nov 11,2025
+	What I did yesterday: Finish the Architecture US
+	What I will do today: Commence Extra Features
+	Obstacles I face: Failed MAT237 Midterm 😔
+
+Nov 12,2025
+	What I did yesterday: Started Working on extra features
+	What I will do today: Finish up the Assignment
+	Obstacles I face: None
